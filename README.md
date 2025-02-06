@@ -15,7 +15,10 @@ Principais problemas relatados pelo requisitante:
 <img align="left" width="500" height="320" src="https://github.com/FellipeSantanac/ContosoPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-05%20233539.png?raw=true">
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web. <br>
+ <br>
+<a href="https://github.com/FellipeSantanac/ContosoPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-05%20233539.png" target="_blank">Clique aqui</a> e acesse o modelo de dados no Github.
+<br>
 
 <br><br><br><br>
 
